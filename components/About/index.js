@@ -21,7 +21,7 @@ function About() {
                     border-2 border-sky-600/50 hover:bg-gradient-to-l from-cyan-200/40 to-pink-100/40 dark:from-slate-900/10 dark:to-blue-900/10   ease-in-out  dark:border-slate-500/50
                     md:group-hover:-translate-x-10 transform-color ease-liner delay-100 duration-500  p-5 md:p-10 rounded-xl max-w-screen-lg mx-auto backdrop-blur bg-slate-400/10 dark:bg-slate-800/10">
                         <div>
-                            Hello! I am Kumar Aryan, and I enjoy creating things that live on the internet. My interest in development started back in 2022 when I used to play a lot of video games. I decided to build one myself, which led me to explore various areas from game development to cybersecurity, machine learning, and web development.
+                            Hello! I am Kumar Aryan, and I enjoy creating things that live on the internet. My interest in development started back in 2021 when I used to play a lot of video games. I decided to build one myself, which led me to explore various areas from game development to cybersecurity, machine learning, and web development.
                             During this exploration, I discovered my passion for web development and in 2020, I began learning Django and frontend fundamentals. I became fascinated by web applications and started to delve deeper into learning and exploring new technologies.
                         </div >
                     </div>
