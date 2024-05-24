@@ -52,21 +52,31 @@ function About() {
                         <ol className="  border-l relative mt-10 border-slate-300 dark:border-slate-600">
                             <li className="-mt-6 mb-10 ml-4">
                                 <div className="absolute w-3 h-3 bg-slate-300 rounded-full -left-1.5 border border-white dark:border-gray-900 dark:bg-slate-600"></div>
-                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Dec 2022 - Feb 2023</time>
-                                <h3 className="text-lg font-semibold ">Forent Inc</h3>
-                                <p className="text-base font-norm opacity-75">Software Engineer Intern </p>
+                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Feb - March 2024</time>
+                                <h3 className="text-lg font-semibold ">Eco Track</h3>
+                                <p className="text-base font-norm opacity-75">Mobile Dev </p>
+                                <p className="text-base font-norm opacity-75">Location: IIT KANPUR </p>
                             </li>
                             <li className="-mt-6 mb-10 ml-4">
                                 <div className="absolute w-3 h-3 bg-slate-300 rounded-full -left-1.5 border border-white dark:border-gray-900 dark:bg-slate-600"></div>
-                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Sept 2022 - Jan 2022</time>
-                                <h3 className="text-lg font-semibold ">Seminare Private Limited</h3>
+                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Nov 2023 - Dec 2023</time>
+                                <h3 className="text-lg font-semibold ">Atlassian - eTaskmaster.ai</h3>
                                 <p className="text-base font-norm opacity-75">Web Developer Intern</p>
+                                <p className="text-base font-norm opacity-75">Location: IIT Bombay</p>
                             </li>
                             <li className="-mt-6 mb-10 ml-4">
                                 <div className="absolute w-3 h-3 bg-slate-300 rounded-full -left-1.5 border border-white dark:border-gray-900 dark:bg-slate-600"></div>
-                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Nov 2021 - Aug 2022</time>
-                                <h3 className="text-lg font-semibold ">Farmoid Robotech Pvt. Ltd.</h3>
-                                <p className="text-base font-norm opacity-75">Full Stack Developer Intern</p>
+                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">Jun 2023 - July 2023</time>
+                                <h3 className="text-lg font-semibold ">Bharat Intern</h3>
+                                <p className="text-base font-norm opacity-75">Web Developer</p>
+                                <p className="text-base font-norm opacity-75">Location: Bhopal, Madhyapradesh</p>
+                            </li>
+                            <li className="-mt-6 mb-10 ml-4">
+                                <div className="absolute w-3 h-3 bg-slate-300 rounded-full -left-1.5 border border-white dark:border-gray-900 dark:bg-slate-600"></div>
+                                <time className="mb-1 text-sm font-normal leading-none text-slate-400 dark:text-slate-500">April 2023 - May 2023</time>
+                                <h3 className="text-lg font-semibold ">TazaKhabar</h3>
+                                <p className="text-base font-norm opacity-75">Android Application Developer</p>
+                                <p className="text-base font-norm opacity-75">Location: Mohali, Punjab</p>
                             </li>
 
 
